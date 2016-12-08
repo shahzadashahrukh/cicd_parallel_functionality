@@ -1,3 +1,3 @@
 #!/usr/bin/python3
 
-print("Jenkins Parallel")
+print("Integrating Jenkins with GitHub")
