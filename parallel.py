@@ -5,5 +5,4 @@
 #server.build_job('parallel_local')
 #server.build_job('parallel_git_hub')
 #server.build_job('POC')
-
-print("Integrating Jenkins with GitHub - 21")
+print("Integrating Jenkins with GitHub - 22")
