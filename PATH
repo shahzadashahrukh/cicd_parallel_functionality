@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?><testsuite errors="0" failures="1" name="pytest" skips="0" tests="1" time="0.031"><testcase classname="test_pytest" file="test_pytest.py" line="10" name="test_answer" time="0.0019998550415"><failure message="assert 4 == 5
+ +  where 4 = func(3)">def test_answer():
+&gt;       assert func(3) == 5
+E       assert 4 == 5
+E        +  where 4 = func(3)
+
+test_pytest.py:12: AssertionError</failure></testcase></testsuite>
