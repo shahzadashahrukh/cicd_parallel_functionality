@@ -1,3 +1,4 @@
 ABC = 700
 XYZ = 200
 A = 100
+SANDHYA = 10
